@@ -14,9 +14,12 @@ role: PhD Student
 
 # Organizations/Affiliations
 organizations:
+- name: University of Freiburg
+  url: "https://www.uni-freiburg.de/?set_language=en"
 - name: Institute of Medical Biometry and Statistics (IMBI)
   url: "https://www.imbi.uni-freiburg.de/?set_language=en"
-
+- name: MeInBio — PhD program
+  url: "http://www.meinbio.uni-freiburg.de/"
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
@@ -77,6 +80,6 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD student advised by Harald Binder. My research interests lie at the intersection of machine learning, computational biology and experimental design. A significant part of my research is driven by building tools for designing single-cell transcriptomics experiments based on deep learning .
+I am a PhD student advised by [Harald Binder](https://www.imbi.uni-freiburg.de/persons/binderh/person_view). My research interests lie at the intersection of machine learning, computational biology and experimental design. A significant part of my research is driven by building tools for designing single-cell transcriptomics experiments based on deep learning .
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I also did internships at the [Max Planck Institute for Evolutionary Anthropology (Leipzig)](https://www.eva.mpg.de/index.html), the [Federal Ministry of Finance Germany (Berlin)](https://www.bundesfinanzministerium.de/Web/EN/Home/home.html), and the [Korea Economic Research Institute (Seoul)](http://www.keri.org/web/eng/home). I was born and grew up in Berlin, Germany.
